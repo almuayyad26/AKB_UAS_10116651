@@ -24,6 +24,10 @@ import com.mim.akb_10116651.view.fProfil;
 import io.realm.Realm;
 
 public class MainActivity extends AppCompatActivity implements BottomNavigationView.OnNavigationItemSelectedListener {
+//    08/08/2019
+//    NIM:10116651
+//    Nama:Muhamad Iyad Muayyad
+//    Kelas:IF-13
     private TextView myTextView;
     Realm realm;
     private String username;
