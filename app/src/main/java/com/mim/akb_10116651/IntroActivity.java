@@ -21,6 +21,10 @@ import java.util.List;
 
 public class IntroActivity extends AppCompatActivity {
 
+//    08/08/2019
+//    NIM:10116651
+//    Nama:Muhamad Iyad Muayyad
+//    Kelas:IF-13
     private ViewPager screenPager;
     IntroViewPagerAdapter introViewPagerAdapter ;
     TabLayout tabIndicator;
