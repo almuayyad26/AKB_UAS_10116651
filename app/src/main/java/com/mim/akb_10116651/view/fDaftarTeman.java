@@ -23,6 +23,10 @@ import io.realm.Realm;
 import io.realm.RealmConfiguration;
 
 public class fDaftarTeman extends Fragment implements daftartemanView {
+//    14/08/2019
+//    NIM:10116651
+//    Nama:Muhamad Iyad Muayyad
+//    Kelas:IF-13
     Realm realm;
     RealmHelper realmHelper;
     RecyclerView recyclerView;
