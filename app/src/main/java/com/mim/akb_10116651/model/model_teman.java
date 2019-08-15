@@ -7,6 +7,10 @@ import io.realm.annotations.PrimaryKey;
 import io.realm.annotations.Required;
 
 public class model_teman extends RealmObject {
+//    11/08/2019
+//    NIM:10116651
+//    Nama:Muhamad Iyad Muayyad
+//    Kelas:IF-13
     @PrimaryKey
     private Integer id;
     private String nim;
