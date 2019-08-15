@@ -23,10 +23,10 @@ import com.mim.akb_10116651.model.model_teman;
 /**
  * A simple {@link androidx.fragment.app.Fragment} subclass.
  */
-//    NIM:10116574
-//    Nama:Ira Yuti
-//    Kelas:If-13
-//    Tanggal Pengerjaan:14/08/2019
+//    12/08/2019
+//    NIM:10116651
+//    Nama:Muhamad Iyad Muayyad
+//    Kelas:IF-13
 public class DetailTemanFragment extends Fragment implements  View.OnClickListener {
  View view;
     Button btnUbah, btnHapus,btnKembali;
