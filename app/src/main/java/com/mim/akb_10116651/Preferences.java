@@ -4,10 +4,10 @@ import android.content.Context;
 import android.content.SharedPreferences;
 import android.preference.PreferenceManager;
 
-//    NIM:10116574
-//    Nama:Ira Yuti
-//    Kelas:If-13
-//    Tanggal Pengerjaan:15/08/2019
+//    13/08/2019
+//    NIM:10116651
+//    Nama:Muhamad Iyad Muayyad
+//    Kelas:IF-13
 public class Preferences {
 
     /** Pendeklarasian key-data berupa String, untuk sebagai wadah penyimpanan data.
