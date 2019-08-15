@@ -13,6 +13,10 @@ import java.util.List;
 import io.realm.Realm;
 
 public class presenter_teman implements MainTeman {
+//    11/08/2019
+//    NIM:10116651
+//    Nama:Muhamad Iyad Muayyad
+//    Kelas:IF-13
     Realm realm;
     model_teman mt;
     private daftartemanView DaftarTemanView;
