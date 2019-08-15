@@ -13,6 +13,10 @@ import androidx.viewpager.widget.PagerAdapter;
 import java.util.List;
 
 public class IntroViewPagerAdapter extends PagerAdapter {
+//    08/08/2019
+//    NIM:10116651
+//    Nama:Muhamad Iyad Muayyad
+//    Kelas:IF-13
 
    Context mContext ;
    List<ScreenItem> mListScreen;
