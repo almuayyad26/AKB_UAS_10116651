@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Al-Muayyad</string>
+    <string name="title_profil">PROFIL</string>
+    <string name="title_kontak">KONTAK</string>
+    <string name="title_daftarteman">TEMAN</string>
+    <string name="title_signout">KELUAR</string>
+</resources>
